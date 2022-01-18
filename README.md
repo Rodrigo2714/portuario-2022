@@ -19,7 +19,8 @@ Pré-requisitos: composer / PHP / MySql
 # clonar repositório
 git clone https://github.com/Rodrigo2714/portuario-2022.git
 
-# entrar na pasta do projeto back end
+# entrar na pasta do projeto e depois na pasta backend
+cd portuario-2022
 cd backend
 
 # instalar dependências
