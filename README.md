@@ -26,6 +26,9 @@ cd backend
 # instalar dependências
 composer install
 
+# copiar arquivo .env.example para .env
+cp .env.example .env
+
 # editar arquivo .env
 DB_DATABASE=nomeBancoDados
 
